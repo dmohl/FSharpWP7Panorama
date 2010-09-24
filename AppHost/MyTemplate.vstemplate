@@ -19,9 +19,9 @@
       <ProjectItem ReplaceParameters="true" TargetFileName="App.xaml.cs">App.xaml.cs</ProjectItem>
       <ProjectItem ReplaceParameters="false" TargetFileName="ApplicationIcon.png">ApplicationIcon.png</ProjectItem>
       <ProjectItem ReplaceParameters="false" TargetFileName="Background.png">Background.png</ProjectItem>
-      <Folder Name="Images" TargetFolderName="Images">
-        <ProjectItem ReplaceParameters="false" TargetFileName="ArrowImg.png">ArrowImg.png</ProjectItem>
-      </Folder>
+	  <ProjectItem ReplaceParameters="true" TargetFileName="Bootstrapper.cs">Bootstrapper.cs</ProjectItem>
+	  <ProjectItem ReplaceParameters="true" TargetFileName="PhoneContainer.cs">PhoneContainer.cs</ProjectItem>
+	  <ProjectItem ReplaceParameters="true" TargetFileName="SimpleContainer.cs">SimpleContainer.cs</ProjectItem>
       <Folder Name="Properties" TargetFolderName="Properties">
         <ProjectItem ReplaceParameters="true" TargetFileName="AppManifest.xml">AppManifest.xml</ProjectItem>
         <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>

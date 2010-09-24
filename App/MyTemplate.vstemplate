@@ -17,15 +17,16 @@
     <Project TargetFileName="App.fsproj" File="App.fsproj" ReplaceParameters="true">
       <Folder Name="ViewModels" TargetFolderName="ViewModels">
         <ProjectItem ReplaceParameters="false" TargetFileName="ItemViewModel.fs">ItemViewModel.fs</ProjectItem>
-        <ProjectItem ReplaceParameters="false" TargetFileName="MainViewModel.fs">MainViewModel.fs</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="MainPageViewModel.fs">MainPageViewModel.fs</ProjectItem>
       </Folder>
-      <Folder Name="SampleData" TargetFolderName="SampleData">
-        <ProjectItem ReplaceParameters="true" TargetFileName="MainViewModelSampleData.xaml">MainViewModelSampleData.xaml</ProjectItem>
+	  <Folder Name="Images" TargetFolderName="Images">
+        <ProjectItem ReplaceParameters="false" TargetFileName="PanoramaBackground.png">PanoramaBackground.png</ProjectItem>
       </Folder>
       <ProjectItem ReplaceParameters="false" TargetFileName="AppLogic.fs">AppLogic.fs</ProjectItem>
-      <ProjectItem ReplaceParameters="true" TargetFileName="DetailsPage.xaml">DetailsPage.xaml</ProjectItem>
       <ProjectItem ReplaceParameters="true" TargetFileName="MainPage.xaml">MainPage.xaml</ProjectItem>
       <Folder Name="Dependencies" TargetFolderName="Dependencies">
+        <ProjectItem ReplaceParameters="false" TargetFileName="Caliburn.Micro.dll">Caliburn.Micro.dll</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="Caliburn.Micro.xml">Caliburn.Micro.xml</ProjectItem>
         <ProjectItem ReplaceParameters="false" TargetFileName="FSharp.Core.dll">FSharp.Core.dll</ProjectItem>
         <ProjectItem ReplaceParameters="false" TargetFileName="FSharp.Core.optdata">FSharp.Core.optdata</ProjectItem>
         <ProjectItem ReplaceParameters="false" TargetFileName="FSharp.Core.sigdata">FSharp.Core.sigdata</ProjectItem>
