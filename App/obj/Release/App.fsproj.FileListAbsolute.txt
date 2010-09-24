@@ -1,15 +1,5 @@
-C:\git\FSharpWP7ListAppTemplate\App\bin\Release\Dependencies\FSharp.Core.dll
-C:\git\FSharpWP7ListAppTemplate\App\bin\Release\WindowsPhoneListApp.xml
-C:\git\FSharpWP7ListAppTemplate\App\bin\Release\WindowsPhoneListApp.dll
-C:\git\FSharpWP7ListAppTemplate\App\bin\Release\WindowsPhoneListApp.pdb
-C:\git\FSharpWP7ListAppTemplate\App\bin\Release\FSharp.Core.dll
-C:\git\FSharpWP7ListAppTemplate\App\bin\Release\FSharp.Core.xml
-C:\git\FSharpWP7ListAppTemplate\App\obj\Release\ResolveAssemblyReference.cache
-C:\git\FSharpWP7ListAppTemplate\App\obj\Release\WindowsPhoneListApp.g.resources
-C:\git\FSharpWP7ListAppTemplate\App\obj\Release\WindowsPhoneListApp.dll
-C:\git\FSharpWP7ListAppTemplate\App\obj\Release\WindowsPhoneListApp.pdb
-C:\git\FSharpWP7PanoramaAppTemplate\App\bin\Release\Dependencies\FSharp.Core.dll
 C:\git\FSharpWP7PanoramaAppTemplate\App\bin\Release\Dependencies\Caliburn.Micro.dll
+C:\git\FSharpWP7PanoramaAppTemplate\App\bin\Release\Dependencies\FSharp.Core.dll
 C:\git\FSharpWP7PanoramaAppTemplate\App\bin\Release\WindowsPhonePanoramaApp.xml
 C:\git\FSharpWP7PanoramaAppTemplate\App\bin\Release\WindowsPhonePanoramaApp.dll
 C:\git\FSharpWP7PanoramaAppTemplate\App\bin\Release\WindowsPhonePanoramaApp.pdb

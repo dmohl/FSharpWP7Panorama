@@ -1,6 +1,3 @@
-C:\git\FSharpWP7PanoramaAppTemplate\AppHost\obj\Release\ResolveAssemblyReference.cache
-C:\git\FSharpWP7PanoramaAppTemplate\AppHost\obj\Release\App.g.i.cs
-C:\git\FSharpWP7PanoramaAppTemplate\AppHost\obj\Release\WindowsPhonePanoramaAppHost.g.resources
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\Dependencies\Caliburn.Micro.dll
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\Dependencies\FSharp.Core.dll
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\ApplicationIcon.png
@@ -12,12 +9,14 @@ C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\WindowsPhonePanoramaAppH
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\AppManifest.xaml
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\WindowsPhonePanoramaAppHost.xap
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\Caliburn.Micro.dll
+C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\Microsoft.Phone.Controls.dll
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\WindowsPhonePanoramaApp.dll
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\FSharp.Core.dll
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\System.Windows.Interactivity.dll
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\WindowsPhonePanoramaApp.pdb
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\WindowsPhonePanoramaApp.xml
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\Caliburn.Micro.xml
+C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\Microsoft.Phone.Controls.xml
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\FSharp.Core.xml
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\System.Windows.Interactivity.xml
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\de\System.Windows.Interactivity.resources.dll
@@ -29,8 +28,9 @@ C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\ja\System.Windows.Intera
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\ko\System.Windows.Interactivity.resources.dll
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\git\FSharpWP7PanoramaAppTemplate\AppHost\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpWP7PanoramaAppTemplate\AppHost\obj\Release\App.g.i.cs
+C:\git\FSharpWP7PanoramaAppTemplate\AppHost\obj\Release\WindowsPhonePanoramaAppHost.g.resources
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\obj\Release\WindowsPhonePanoramaAppHost.dll
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\obj\Release\WindowsPhonePanoramaAppHost.pdb
 C:\git\FSharpWP7PanoramaAppTemplate\AppHost\obj\Release\XapCacheFile.xml
-C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\Microsoft.Phone.Controls.dll
-C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\Microsoft.Phone.Controls.xml
