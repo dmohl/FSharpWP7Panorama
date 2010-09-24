@@ -20,7 +20,7 @@
         <!--Panorama control-->
         <controls:Panorama Title="my application">
             <controls:Panorama.Background>
-                <ImageBrush ImageSource="/Images/PanoramaBackground.png"/>
+                <ImageBrush ImageSource="Images\PanoramaBackground.png"/>
             </controls:Panorama.Background>
 
             <!--Panorama item one-->

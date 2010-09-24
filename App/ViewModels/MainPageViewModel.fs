@@ -14,11 +14,6 @@ namespace WindowsPhonePanoramaApp
         do items.Add(ItemViewModel(LineOne="runtime two", LineTwo = "Long Live F#", LineThree = "F# is terse yet very readable."))
         do items.Add(ItemViewModel(LineOne="runtime three", LineTwo = "Funtional Forever", LineThree = "F# is years ahead of many other main stream languages."))
         do items.Add(ItemViewModel(LineOne="runtime four", LineTwo = "Yippy", LineThree = "All the cool kids are using F#."))
-        let mutable sampleProperty = "Sample"
-
         /// Sample MainModel collection property. This property is used in the view to display its value open a Binding.
         // Note: observable collections have their own change notification
         member x.Items = items
-
-        /// Sample MainModel property. This property is used in the view to display its value open a Binding.
-        member x.SampleProperty  with get() = sampleProperty and  set v = (sampleProperty <- v; base.NotifyOfPropertyChange("SampleProperty"))

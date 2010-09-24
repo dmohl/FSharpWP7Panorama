@@ -69,19 +69,6 @@
 <member name="">
 
 </member>
-<member name="">
-
-</member>
-<member name="P:WindowsPhonePanoramaApp.MainPageViewModel.SampleProperty(System.String)">
-<summary>
- Sample MainModel property. This property is used in the view to display its value open a Binding.
-</summary>
-</member>
-<member name="P:WindowsPhonePanoramaApp.MainPageViewModel.SampleProperty">
-<summary>
- Sample MainModel property. This property is used in the view to display its value open a Binding.
-</summary>
-</member>
 <member name="P:WindowsPhonePanoramaApp.MainPageViewModel.Items">
 <summary>
  Sample MainModel collection property. This property is used in the view to display its value open a Binding.

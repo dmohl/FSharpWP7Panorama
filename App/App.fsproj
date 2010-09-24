@@ -53,6 +53,7 @@
     <Compile Include="ViewModels\ItemViewModel.fs" />
     <Compile Include="ViewModels\MainPageViewModel.fs" />
     <Compile Include="AppLogic.fs" />
+    <Resource Include="Images\PanoramaBackground.png" />
     <Resource Include="MainPage.xaml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>

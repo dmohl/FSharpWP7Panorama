@@ -13,6 +13,7 @@ open System.Windows.Shapes
 open System.Windows.Navigation
 open Microsoft.Phone.Controls
 open Microsoft.Phone.Shell
+open Caliburn.Micro
 
 /// This type implements the main page of the application
 type MainPage() as this =
@@ -30,16 +31,5 @@ type App(app:Application) =
                 System.Diagnostics.Debugger.Break();
      )
 
-    let rootFrame = new PhoneApplicationFrame();
-
-    do app.RootVisual <- rootFrame;
-
-    // Handle navigation failures
-    do rootFrame.NavigationFailed.Add(fun _ -> 
-        if (System.Diagnostics.Debugger.IsAttached) then
-            // A navigation has failed; break into the debugger
-            System.Diagnostics.Debugger.Break())
-
-    // Navigate to the main page 
-    do rootFrame.Navigate(new Uri("/WindowsPhonePanoramaApp;component/MainPage.xaml", UriKind.Relative)) |> ignore
-
+    let navigationService = IoC.Get<INavigationService>()
+    do navigationService.Navigate(new Uri("/WindowsPhonePanoramaApp;component/MainPage.xaml", UriKind.Relative)) |> ignore
