@@ -1,10 +1,9 @@
-// Example of writing a model in F#
 namespace WindowsPhonePanoramaApp
 
     open Caliburn.Micro
 
     type ItemViewModel() =
-        inherit Screen()
+        inherit PropertyChangedBase()
         let mutable _lineOne = ""
         let mutable _lineTwo = ""
         let mutable _lineThree = ""

@@ -1,9 +1,9 @@
 C:\git\FSharpWP7PanoramaAppTemplate\FSharpWP7PanoramaAppVSIX\bin\Release\MicrosoftPublicLicense.txt
-C:\git\FSharpWP7PanoramaAppTemplate\FSharpWP7PanoramaAppVSIX\bin\Release\FSharpWP7ListAppVSIX.vsix
 C:\git\FSharpWP7PanoramaAppTemplate\FSharpWP7PanoramaAppVSIX\bin\Release\extension.vsixmanifest
 C:\git\FSharpWP7PanoramaAppTemplate\FSharpWP7PanoramaAppVSIX\obj\Release\ResolveAssemblyReference.cache
-C:\git\FSharpWP7PanoramaAppTemplate\FSharpWP7PanoramaAppVSIX\obj\Release\FSharpWP7ListAppVSIX.dll
-C:\git\FSharpWP7PanoramaAppTemplate\FSharpWP7PanoramaAppVSIX\obj\Release\FSharpWP7ListAppVSIX.pdb
 C:\git\FSharpWP7PanoramaAppTemplate\FSharpWP7PanoramaAppVSIX\obj\Release\extension.vsixmanifest
 C:\git\FSharpWP7PanoramaAppTemplate\FSharpWP7PanoramaAppVSIX\bin\Release\ProjectTemplates\WP7\FSharpWP7PanoramaApp.zip
 C:\git\FSharpWP7PanoramaAppTemplate\FSharpWP7PanoramaAppVSIX\bin\Release\WP7PanoramaScreenShot.png
+C:\git\FSharpWP7PanoramaAppTemplate\FSharpWP7PanoramaAppVSIX\bin\Release\FSharpWP7PanoramaAppVSIX.vsix
+C:\git\FSharpWP7PanoramaAppTemplate\FSharpWP7PanoramaAppVSIX\obj\Release\FSharpWP7PanoramaAppVSIX.dll
+C:\git\FSharpWP7PanoramaAppTemplate\FSharpWP7PanoramaAppVSIX\obj\Release\FSharpWP7PanoramaAppVSIX.pdb

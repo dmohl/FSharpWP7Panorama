@@ -8,8 +8,8 @@
     <ProjectGuid>{90EB16B5-2D5C-4F9F-A42D-CF51D57507D9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FSharpWP7ListAppVSIX</RootNamespace>
-    <AssemblyName>FSharpWP7ListAppVSIX</AssemblyName>
+    <RootNamespace>FSharpWP7PanoramaApp</RootNamespace>
+    <AssemblyName>FSharpWP7PanoramaAppVSIX</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <GeneratePkgDefFile>false</GeneratePkgDefFile>
     <IncludeAssemblyInVSIXContainer>false</IncludeAssemblyInVSIXContainer>
