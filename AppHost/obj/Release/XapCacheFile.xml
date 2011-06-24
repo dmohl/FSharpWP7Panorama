@@ -1,14 +1,14 @@
-﻿<xapCache source="C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\WindowsPhonePanoramaAppHost.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="9/26/2010 4:50:09 PM">
-  <file source="C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="9/23/2010 11:58:04 PM" />
-  <file source="C:\git\FSharpWP7PanoramaAppTemplate\AppHost\obj\Release\WindowsPhonePanoramaAppHost.dll" archivePath="WindowsPhonePanoramaAppHost.dll" lastWriteTime="9/26/2010 4:50:08 PM" />
-  <file source="C:\git\FSharpWP7PanoramaAppTemplate\App\Dependencies\Caliburn.Micro.dll" archivePath="Caliburn.Micro.dll" lastWriteTime="9/23/2010 8:59:23 PM" />
+﻿<xapCache source="C:\git\FSharpWP7Panorama\AppHost\Bin\Release\WindowsPhonePanoramaAppHost.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="6/24/2011 11:10:20 AM">
+  <file source="C:\git\FSharpWP7Panorama\AppHost\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="6/24/2011 10:47:43 AM" />
+  <file source="C:\git\FSharpWP7Panorama\AppHost\obj\Release\WindowsPhonePanoramaAppHost.dll" archivePath="WindowsPhonePanoramaAppHost.dll" lastWriteTime="6/24/2011 11:10:20 AM" />
+  <file source="C:\git\FSharpWP7Panorama\App\Dependencies\Caliburn.Micro.dll" archivePath="Caliburn.Micro.dll" lastWriteTime="6/24/2011 10:47:43 AM" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.0\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="9/1/2010 3:51:10 AM" />
-  <file source="C:\git\FSharpWP7PanoramaAppTemplate\App\bin\Release\WindowsPhonePanoramaApp.dll" archivePath="WindowsPhonePanoramaApp.dll" lastWriteTime="9/26/2010 4:50:07 PM" />
-  <file source="C:\git\FSharpWP7PanoramaAppTemplate\App\bin\Release\FSharp.Core.dll" archivePath="FSharp.Core.dll" lastWriteTime="9/18/2010 2:39:49 PM" />
+  <file source="C:\git\FSharpWP7Panorama\App\bin\Release\WindowsPhonePanoramaApp.dll" archivePath="WindowsPhonePanoramaApp.dll" lastWriteTime="6/24/2011 11:10:18 AM" />
+  <file source="C:\git\FSharpWP7Panorama\App\bin\Release\FSharp.Core.dll" archivePath="FSharp.Core.dll" lastWriteTime="6/24/2011 10:47:43 AM" />
   <file source="c:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="9/1/2010 1:41:46 AM" />
-  <file source="C:\git\FSharpWP7PanoramaAppTemplate\AppHost\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="9/18/2010 2:39:49 PM" />
-  <file source="C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Background.png" archivePath="Background.png" lastWriteTime="9/18/2010 2:39:49 PM" />
-  <file source="C:\git\FSharpWP7PanoramaAppTemplate\AppHost\readme.txt" archivePath="readme.txt" lastWriteTime="9/23/2010 9:40:54 PM" />
-  <file source="C:\git\FSharpWP7PanoramaAppTemplate\AppHost\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="9/18/2010 2:39:49 PM" />
-  <file source="C:\git\FSharpWP7PanoramaAppTemplate\AppHost\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="9/26/2010 4:50:08 PM" />
+  <file source="C:\git\FSharpWP7Panorama\AppHost\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="6/24/2011 10:47:43 AM" />
+  <file source="C:\git\FSharpWP7Panorama\AppHost\Background.png" archivePath="Background.png" lastWriteTime="6/24/2011 10:47:43 AM" />
+  <file source="C:\git\FSharpWP7Panorama\AppHost\readme.txt" archivePath="readme.txt" lastWriteTime="6/24/2011 10:47:43 AM" />
+  <file source="C:\git\FSharpWP7Panorama\AppHost\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="6/24/2011 10:47:43 AM" />
+  <file source="C:\git\FSharpWP7Panorama\AppHost\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="6/24/2011 11:10:20 AM" />
 </xapCache>
